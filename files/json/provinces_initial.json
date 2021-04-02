@@ -1,0 +1,314 @@
+[
+    {
+        "id": "ES-A",
+        "title": "Alicante",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-AB",
+        "title": "Albacete",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-AL",
+        "title": "Almería",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-AV",
+        "title": "Avila",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-B",
+        "title": "Barcelona",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-BA",
+        "title": "Badajoz",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-BI",
+        "title": "Vizcaya",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-BU",
+        "title": "Burgos",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-C",
+        "title": "A Coruña",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-CA",
+        "title": "Cadiz",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-CC",
+        "title": "Caceres",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-CE",
+        "title": "Ceuta",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-CO",
+        "title": "Cordoba",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-CR",
+        "title": "Ciudad Real",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-CS",
+        "title": "Castellón",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-CU",
+        "title": "Cuenca",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-GC",
+        "title": "Las Palmas",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-GI",
+        "title": "Girona",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-GR",
+        "title": "Granada",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-GU",
+        "title": "Guadalajara",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-H",
+        "title": "Huelva",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-HU",
+        "title": "Huesca",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-J",
+        "title": "Jaén",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-L",
+        "title": "Lleida",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-LE",
+        "title": "León",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-LO",
+        "title": "La Rioja",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-LU",
+        "title": "Lugo",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-M",
+        "title": "Madrid",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-MA",
+        "title": "Malaga",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-ML",
+        "title": "Melilla",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-MU",
+        "title": "Murcia",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-NA",
+        "title": "Navarra",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-O",
+        "title": "Asturias",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-OR",
+        "title": "Ourense",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-P",
+        "title": "Palencia",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-PM",
+        "title": "Balears",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-PO",
+        "title": "Pontevedra",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-S",
+        "title": "Cantabria",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-SA",
+        "title": "Salamanca",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-SE",
+        "title": "Sevilla",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-SG",
+        "title": "Segovia",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-SO",
+        "title": "Soria",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-SS",
+        "title": "Guipúzcoa",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-TE",
+        "title": "Teruel",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-TF",
+        "title": "Santa Cruz de Tenerife",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-TO",
+        "title": "Toledo",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-T",
+        "title": "Tarragona",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-V",
+        "title": "Valencia",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-VA",
+        "title": "Valladolid",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-VI",
+        "title": "Alava",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-Z",
+        "title": "Zaragoza",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    },
+    {
+        "id": "ES-ZA",
+        "title": "Zamora",
+        "possibleEnemies": [],
+        "defeatedEnemies": []
+    }
+]

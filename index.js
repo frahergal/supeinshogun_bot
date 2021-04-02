@@ -1,5 +1,6 @@
 const sharp = require("sharp");
 
+// SVG to PNG converter
 sharp("files/svg/spain.svg")
   .png()
   .toFile("files/svg/spain.png")
