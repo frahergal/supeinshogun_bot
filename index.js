@@ -9,3 +9,9 @@ sharp("files/svg/spain.svg")
   .catch(function(err) {
     console.log(err)
   });
+
+let i = 0;
+while (true) {
+i++;
+console.log("🍆🍆🍆");
+}
